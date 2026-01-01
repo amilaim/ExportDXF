@@ -1,0 +1,11 @@
+{"PanelId":2,"PanelHeight":2800,"PanelWidth":2100,"PanelThickness":18.0,"CutterDiameter":6.0,"Shave":5,"PartList":
+[
+{"panelID":2,"modulID":1076741580,"partID":2146325803,"ID2":0,"partName":"Yan Dikme Sağ","X":5,"Y":5,"XA":5,"YA":605,"Width":714.0,"Height":600.0,"Rotated":true,"LeftMost":true,"TopMost":false,"RightMost":false,"BottomMost":true,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":1180881524,"partID":1755753075,"ID2":0,"partName":"Alt Tabla","X":5,"Y":611,"XA":5,"YA":1775,"Width":600.0,"Height":1164.0,"Rotated":true,"LeftMost":true,"TopMost":false,"RightMost":false,"BottomMost":false,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":1076741580,"partID":427414024,"ID2":0,"partName":"Üst Tabla","X":5,"Y":1781,"XA":5,"YA":2781,"Width":600.0,"Height":1000.0,"Rotated":true,"LeftMost":true,"TopMost":true,"RightMost":false,"BottomMost":false,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":2031105728,"partID":55738176,"ID2":0,"partName":"Panel Yatay","X":611,"Y":2211,"XA":611,"YA":2766,"Width":600.0,"Height":555.0,"Rotated":true,"LeftMost":false,"TopMost":true,"RightMost":false,"BottomMost":false,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":788156562,"partID":1211640589,"ID2":0,"partName":"Yan Dikme Sağ","X":725,"Y":5,"XA":725,"YA":2205,"Width":600.0,"Height":2200.0,"Rotated":false,"LeftMost":false,"TopMost":false,"RightMost":false,"BottomMost":true,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":2031105728,"partID":309347369,"ID2":0,"partName":"Panel Dikey","X":1331,"Y":5,"XA":1331,"YA":1775,"Width":600.0,"Height":1770.0,"Rotated":false,"LeftMost":false,"TopMost":false,"RightMost":true,"BottomMost":true,"PartType":"","Reverse":true}
+,{"panelID":2,"modulID":1076741580,"partID":1798292849,"ID2":0,"partName":"Alt Tabla","X":1331,"Y":1781,"XA":1331,"YA":2781,"Width":600.0,"Height":1000.0,"Rotated":true,"LeftMost":false,"TopMost":true,"RightMost":true,"BottomMost":false,"PartType":"","Reverse":false}
+]
+}

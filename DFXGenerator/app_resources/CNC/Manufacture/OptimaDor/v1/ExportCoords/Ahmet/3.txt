@@ -1,0 +1,10 @@
+{"PanelId":3,"PanelHeight":2800,"PanelWidth":2100,"PanelThickness":18.0,"CutterDiameter":6.0,"Shave":5,"PartList":
+[
+{"panelID":3,"modulID":1180881524,"partID":1211575937,"ID2":0,"partName":"Yan Dikme Sağ","X":5,"Y":5,"XA":5,"YA":2205,"Width":600.0,"Height":2200.0,"Rotated":false,"LeftMost":true,"TopMost":false,"RightMost":false,"BottomMost":true,"PartType":"","Reverse":false}
+,{"panelID":3,"modulID":788156562,"partID":706161911,"ID2":0,"partName":"Panel Yatay","X":5,"Y":2211,"XA":5,"YA":2766,"Width":600.0,"Height":555.0,"Rotated":true,"LeftMost":true,"TopMost":true,"RightMost":false,"BottomMost":false,"PartType":"","Reverse":false}
+,{"panelID":3,"modulID":2031105728,"partID":706168037,"ID2":0,"partName":"Panel Yatay","X":611,"Y":2211,"XA":611,"YA":2766,"Width":600.0,"Height":555.0,"Rotated":true,"LeftMost":false,"TopMost":true,"RightMost":false,"BottomMost":false,"PartType":"","Reverse":false}
+,{"panelID":3,"modulID":2031105728,"partID":1211646715,"ID2":0,"partName":"Yan Dikme Sağ","X":611,"Y":5,"XA":611,"YA":2205,"Width":600.0,"Height":2200.0,"Rotated":false,"LeftMost":false,"TopMost":false,"RightMost":false,"BottomMost":true,"PartType":"","Reverse":false}
+,{"panelID":3,"modulID":1180881524,"partID":1281548731,"ID2":0,"partName":"Yan Dikme Sol","X":1217,"Y":5,"XA":1217,"YA":2205,"Width":600.0,"Height":2200.0,"Rotated":false,"LeftMost":false,"TopMost":false,"RightMost":true,"BottomMost":true,"PartType":"","Reverse":false}
+,{"panelID":3,"modulID":1180881524,"partID":55667398,"ID2":0,"partName":"Panel Yatay","X":1217,"Y":2211,"XA":1217,"YA":2766,"Width":600.0,"Height":555.0,"Rotated":true,"LeftMost":false,"TopMost":true,"RightMost":true,"BottomMost":false,"PartType":"","Reverse":false}
+]
+}

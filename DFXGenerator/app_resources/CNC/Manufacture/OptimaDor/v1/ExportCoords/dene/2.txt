@@ -1,0 +1,12 @@
+{"PanelId":2,"PanelHeight":2800,"PanelWidth":2100,"PanelThickness":18.0,"CutterDiameter":6.0,"Shave":5,"PartList":
+[
+{"panelID":2,"modulID":1953481428,"partID":1211503387,"ID2":0,"partName":"Üst Tabla","X":5,"Y":5,"XA":5,"YA":605,"Width":1000.0,"Height":600.0,"Rotated":false,"LeftMost":true,"TopMost":false,"RightMost":false,"BottomMost":true,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":525136966,"partID":1912359303,"ID2":0,"partName":"Panel Dikey","X":5,"Y":611,"XA":5,"YA":1211,"Width":1398.0,"Height":600.0,"Rotated":true,"LeftMost":true,"TopMost":false,"RightMost":false,"BottomMost":false,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":12138797,"partID":1155769796,"ID2":0,"partName":"Panel Yatay","X":5,"Y":1217,"XA":5,"YA":2181,"Width":600.0,"Height":964.0,"Rotated":true,"LeftMost":true,"TopMost":false,"RightMost":false,"BottomMost":false,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":525136966,"partID":2132929306,"ID2":0,"partName":"Alt Tabla","X":5,"Y":2187,"XA":5,"YA":2787,"Width":1000.0,"Height":600.0,"Rotated":false,"LeftMost":true,"TopMost":true,"RightMost":false,"BottomMost":false,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":12138797,"partID":2132969858,"ID2":0,"partName":"Alt Tabla","X":1011,"Y":2187,"XA":1011,"YA":2787,"Width":1000.0,"Height":600.0,"Rotated":false,"LeftMost":false,"TopMost":true,"RightMost":false,"BottomMost":false,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":525136966,"partID":1155729244,"ID2":0,"partName":"Panel Yatay","X":611,"Y":1217,"XA":611,"YA":2181,"Width":600.0,"Height":964.0,"Rotated":true,"LeftMost":false,"TopMost":false,"RightMost":false,"BottomMost":false,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":1330478332,"partID":1211504040,"ID2":0,"partName":"Üst Tabla","X":1011,"Y":5,"XA":1011,"YA":605,"Width":1000.0,"Height":600.0,"Rotated":false,"LeftMost":false,"TopMost":false,"RightMost":false,"BottomMost":true,"PartType":"","Reverse":false}
+,{"panelID":2,"modulID":12138797,"partID":1912399855,"ID2":0,"partName":"Panel Dikey","X":1409,"Y":611,"XA":1409,"YA":2009,"Width":600.0,"Height":1398.0,"Rotated":false,"LeftMost":false,"TopMost":false,"RightMost":true,"BottomMost":true,"PartType":"","Reverse":false}
+]
+}
